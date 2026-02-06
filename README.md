@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marlon Welimaluwa</h1>
-<h3 align="center">Full-Stack Developer on a mission to master modern web development.</h3>
+<h3 align="center">Full-Stack Developer in modern web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marlonwelimaluwa&label=Profile%20views&color=0e75b6&style=flat" alt="marlonwelimaluwa" /> </p>
 
