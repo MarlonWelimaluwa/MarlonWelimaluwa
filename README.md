@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marlonwelimaluwa&label=Profile%20views&color=0e75b6&style=flat" alt="marlonwelimaluwa" /> </p>
 
-<p align="left"> <a href="https://twitter.com/marlonjr787" target="blank"><img src="https://img.shields.io/twitter/follow/marlonjr787?logo=twitter&style=for-the-badge" alt="marlonjr787" /></a> </p>
+<p align="left"> <a href="https://x.com/MarlonDev" target="blank"><img src="https://img.shields.io/twitter/follow/marlondev?logo=twitter&style=for-the-badge" alt="marlonjr787" /></a> </p>
 
 - 💬 Ask me about **Full-Stack Web Development**
 
