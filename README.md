@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Full-Stack Web Development**
 
-- 📫 How to reach me **marlonwelimaluwa@gmail.com**
+- 📫 How to reach me **https://marlon-welimaluwa.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
